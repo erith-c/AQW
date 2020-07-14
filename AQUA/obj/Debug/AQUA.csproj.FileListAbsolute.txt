@@ -1,0 +1,7 @@
+D:\jechase\erith-c\workspace\test-repositories\AQUA\obj\Debug\AQUA.csprojAssemblyReference.cache
+D:\jechase\erith-c\workspace\test-repositories\AQUA\obj\Debug\AQUA.csproj.CoreCompileInputs.cache
+D:\jechase\erith-c\workspace\test-repositories\AQUA\bin\Debug\AQUA.exe.config
+D:\jechase\erith-c\workspace\test-repositories\AQUA\bin\Debug\AQUA.exe
+D:\jechase\erith-c\workspace\test-repositories\AQUA\bin\Debug\AQUA.pdb
+D:\jechase\erith-c\workspace\test-repositories\AQUA\obj\Debug\AQUA.exe
+D:\jechase\erith-c\workspace\test-repositories\AQUA\obj\Debug\AQUA.pdb
